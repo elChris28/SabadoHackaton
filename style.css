@@ -12,14 +12,14 @@
     
     
    }
-
+/**/
 header{
     background-image: url(/img/portadaOFI.png);
-    height: 1000px;
-    width: 1263px;
-    background-size: cover;
-    background-repeat: no-repeat;  
-    background-position: center;  
+    height: 750px;   /*Tamaño de la imagen*/
+    background-size: cover; /*Para que ocupe todo el ancho*/
+    background-repeat: no-repeat;  /**/
+    background-position: center; /**/
+    background-attachment: fixed; /**/
 }
 
 h1{
